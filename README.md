@@ -14,3 +14,6 @@ Project highlights and demo (due by 3pm on December 16):
 3. Construct Timing portfolio
 4. Back-test
 5. Sharpe, Maximum Dropdown, etc
+
+
+Write up report then create slide deck
